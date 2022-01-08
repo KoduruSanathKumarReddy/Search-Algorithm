@@ -115,8 +115,11 @@ else:
 ```
 ## Output
 ### Linear Search
-![out](./)
-
+![out](/lin.png)
+### Binary Search Iteration Method
+![out](/it.png)
+### Binary Search Recursive Method
+![out](/rec.png)
 
 
 
